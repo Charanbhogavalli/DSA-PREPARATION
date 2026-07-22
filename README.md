@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0904-fruit-into-baskets) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1314-matrix-block-sum) |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1314-matrix-block-sum) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
