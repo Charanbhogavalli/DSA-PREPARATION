@@ -74,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0523-continuous-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0904-fruit-into-baskets) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0344-reverse-string) |
