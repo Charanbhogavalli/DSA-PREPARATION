@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1314-matrix-block-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
