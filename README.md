@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0713-subarray-product-less-than-k) |
@@ -95,15 +96,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0076-minimum-window-substring) |
+| [0496-next-greater-element-i](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
