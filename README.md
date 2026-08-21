@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0735-asteroid-collision) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0680-valid-palindrome-ii) |
 ## Newton's Method
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0084-largest-rectangle-in-histogram) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
