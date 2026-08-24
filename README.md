@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0033-search-in-rotated-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0496-next-greater-element-i) |
