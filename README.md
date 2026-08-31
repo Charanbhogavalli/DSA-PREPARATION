@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0085-maximal-rectangle) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0224-basic-calculator) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0394-decode-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
