@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0503-next-greater-element-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
