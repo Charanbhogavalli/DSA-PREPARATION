@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1019-next-greater-node-in-linked-list) |
 | [1314-matrix-block-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1314-matrix-block-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1552-magnetic-force-between-two-balls) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
