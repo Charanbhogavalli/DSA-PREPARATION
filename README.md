@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0240-search-a-2d-matrix-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0169-majority-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0904-fruit-into-baskets) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -334,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Charanbhogavalli/DSA-PREPARATION/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
